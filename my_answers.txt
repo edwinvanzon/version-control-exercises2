@@ -1,0 +1,3 @@
+Lets add some lines
+See if git wil work properly
+Because it gives me a headache
